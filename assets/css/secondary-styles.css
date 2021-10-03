@@ -1,0 +1,51 @@
+.hero {
+    background-position: bottom;
+    height: auto;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+/* begin style for page title */
+.page-title {
+    color: #fce138;
+    display: inline-block;
+    padding: 0 80px 15px 80px;
+    font-weight: normal;
+    font-size: 42px;
+    font-style: italic;
+    border: 4px;
+    border-color: #fce138;
+}
+
+.primary-border {
+    border-color: #fce138;
+    border-style: solid;
+    padding: 0 80px 15px 80px;
+    border: 10px;
+    border-bottom: 10px;
+    }
+
+/* end style for page title */
+    
+.secondary-content {
+    width: 80%;
+    margin: 4px 4px 4px 120px; 
+    text-align: center;
+    color: #024e76;
+    }
+
+.secondary-content h3 {
+    font-size: 25px;
+    margin: 20px 0 25px 0;
+}
+
+.secondary-content p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 20px 0 25px 0;
+}
+
+.secondary-content li {
+    color: #39a6b2;
+    margin: 10px 0 10px 0;
+}
